@@ -1,1 +1,4 @@
-# mute-switch-2-electric-boogaloo
+# A terrible mute switch
+![](switch.gif)
+
+Icons from https://fontawesome.com/
